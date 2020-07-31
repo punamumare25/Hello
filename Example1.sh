@@ -2,11 +2,6 @@ public class Helloworld
 {
 public static void main (String args[])
 {
-System.out.println("ello orld");
-
-System.out.println("byr");
-=======
-System.out.println("hii")
->>>>>>>
+System.out.println("master branch");
 }
 }
